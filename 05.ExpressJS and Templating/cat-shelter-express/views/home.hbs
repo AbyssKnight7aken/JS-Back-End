@@ -1,0 +1,18 @@
+<form action="/" method="GET">
+    <input type="text" name="search" value="{{search}}" placeholder="Search...">
+    <button type="submit">Search</button>
+</form>
+
+<main>
+    <section class="cats">
+        <ul>
+            {{#if cats}}
+            {{#each cats}}
+            {{>cat}}
+            {{/each}}
+            {{else}}
+            <strong>There are no cats!</strong>
+            {{/if}}
+        </ul>
+    </section>
+</main>

@@ -1,0 +1,50 @@
+[
+    {
+        "id": "hrpti3dgklif7hvqm",
+        "name": "Pretty",
+        "description": "Dominant and aggressive to other cats. Will probably eat you in your sleep. Very cute tho.",
+        "breed": "Fluffy Cat",
+        "image": "pretty-kitty.jpg",
+        "price": "1 bitCoin"
+    },
+    {
+        "id": "hrpti3410lif7de6k",
+        "name": "Socks",
+        "description": "black and white",
+        "breed": "Ulichna Prevuzhodna",
+        "image": "Socks_the_Cat_Official_Portrait.jpg",
+        "price": "5 leva"
+    },
+    {
+        "id": "hrpty3410lif8ze3k",
+        "name": "Gomez",
+        "description": "dyrt kotak !!!",
+        "breed": "selska",
+        "price": "edna vodka",
+        "image": "gomez.jpg"
+    },
+    {
+        "id": "hrpti3dgklif7gosq",
+        "name": "Carrot",
+        "description": "Cute Mink tribe bunny from One Piece manga!",
+        "breed": "Mink",
+        "price": "66 billion B",
+        "image": "carrot.jpg"
+    },
+    {
+        "id": "hrpty6928lif8pj7g",
+        "name": "Blaidd",
+        "description": "Elden Ring izbomber. Trusted companion and guardian of Ranni the Witch.",
+        "breed": "Street Fighter",
+        "price": "666 Runes",
+        "image": "278241143_1226588791205842_4379566643740442424_n.jpg"
+    },
+    {
+        "id": "hrpti6bgghwf5rmqc",
+        "name": "Ranni the Witch",
+        "description": "Best waifu from Elden Ring !!!",
+        "breed": "Empyrean",
+        "price": "Not for sale!",
+        "image": "Elden-Ring-quests-ranni.jpg"
+    }
+]

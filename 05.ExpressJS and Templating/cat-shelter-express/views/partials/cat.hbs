@@ -1,0 +1,12 @@
+<li>
+    <img src="images/{{image}}" alt={{name}}>
+    <h3>{{name}}</h3>
+    <p><span>Breed: </span>{{breed}}</p>
+    <p><span>Description: </span>{{description}}</p>
+    <p><span>Price: </span>{{price}}</p>
+    <ul class="buttons">
+        <li class="btn edit"><a href="/{{id}}/edit">Change Info</a></li>
+        <li class="btn delete"><a href="/{{id}}/delete"
+                onclick="return confirm('Are you sure you wish to send {{name}} to lovely new home?')">New Home</a></li>
+    </ul>
+</li>
